@@ -1,6 +1,6 @@
 # Project: Recipes
 
-My first task for the Odin Project.
+My first task for the [Odin Project](https://www.theodinproject.com/).
 ## Here we are practicing all of the HTML knowlage we acquired till now.
 - [Element and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags) 
 - [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
